@@ -1,1 +1,1 @@
-include ':app-rewrite'
+include ':app_rewrite'
